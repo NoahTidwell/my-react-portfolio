@@ -1,6 +1,7 @@
 .navigation_container {
     background-color: var(--nav-color);
     color: white;
+    font-family: Lucida Console;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -9,6 +10,8 @@
 
 .navbar-light .navbar-brand {
     color: var(--font-color) !important;
+    font-weight: bold;
+    font-size: 18pt;
 }
 
 .navbar-light .navbar-toggler-icon {

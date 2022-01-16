@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
+import Home from '../home/index'
 import { navLinks } from '../utils/navLinks'
 import './navigation.css'
 
@@ -13,7 +14,7 @@ function createLinks() {
 function Navigation() {
     return (
         <div id="home">
-            <Navbar className="navigation_container" expand="md">
+            <Navbar style={{zIndex: '2'}} className="navigation_container" expand="md">
             <Navbar.Brand style={ {marginLeft: '1rem'} }href="#home">Noah Tidwell</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse style={{ justifyContent: 'flex-end', marginRight: '1rem', borderColor: 'none'}}>
@@ -22,6 +23,8 @@ function Navigation() {
             </Nav>
             </Navbar.Collapse>
             </Navbar>
+
+            <Home />
         </div>
     )
 }
