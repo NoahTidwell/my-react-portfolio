@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Deployment Link
-[Link](http://noahtidwell.github.io/portfolio)
+[Link](http://noahtidwell.github.io/my-react-portfolio/)
 
 ## Licensing:
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
