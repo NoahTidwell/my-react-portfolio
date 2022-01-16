@@ -5,7 +5,7 @@ import './home.css'
 function Home() {
     return (
         <div className='main-info'>
-            <h1>What is Noah?</h1>
+            <h1>Who is Noah?</h1>
         <Typed
         strings={[
             ' ',
