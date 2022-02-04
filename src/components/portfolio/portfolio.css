@@ -63,3 +63,17 @@
     justify-content: space-evenly;
     align-items: center;
 }
+
+.share_your_story_container a:hover {
+    box-shadow: 5px 5px 5px 5px  #888888;
+}
+
+
+.share_your_story_container {
+    margin: 3rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
