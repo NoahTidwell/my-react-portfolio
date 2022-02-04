@@ -4,6 +4,7 @@ import EA from '../../images/EA.jpeg'
 import Snapi from '../../images/snapi.jpeg'
 import Budget from '../../images/budget.jpeg'
 import Employee from '../../images/employee.jpeg'
+import homepage from '../../images/homepage.jpeg'
 
 
 function Portfolio() {
@@ -15,6 +16,12 @@ function Portfolio() {
             <a target='_blank' rel='noreferrer' href="https://www.github.com/NoahTidwell/Enterprising-Arrangements">
                 <img style={{ maxHeight: '450px', maxWidth: '450px', margin: '1rem', border: 'none'}} src={EA} alt='screenshot of Enterprising Arrangements' />
                 </a>
+                </div>
+                  <div className='share_your_story_container card rounded-2 card-shadow mt-5 m-5 mb-5' >
+                    <h2>Share Your Story</h2>
+                    <a href="https://github.com/JeffGoji/share-your-story">
+                    <img style={{ maxHeight: '450px', maxWidth: '450px', margin: '1rem', border: 'none'}} src={homepage} alt='screenshot of Share Your Story' />
+                    </a>
                 </div>
                 <div className='social_networking_api card rounded-2 card-shadow mt-5 m-5 mb-5'>
                     <h2>Open Thoughts</h2>
