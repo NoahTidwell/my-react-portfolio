@@ -9,10 +9,10 @@ function Home() {
         <Typed
         strings={[
             ' ',
-            'Front-End Developer',
-            'Back-End Developer',
+            'Technical-Writer',
+            'Sales Manager',
             'Blockchain Enthusiast',
-            'MERN Stack',
+            'MERN Stack Developer',
             ' ',
             ' ']}
             typeSpeed={40}
