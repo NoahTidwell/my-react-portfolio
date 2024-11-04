@@ -12,7 +12,7 @@
 }
 
 .EA_container img { 
-    border: 1px rgb(109, 98, 98);
+    border: 1px solid rgb(109, 98, 98);
     margin-bottom: 1rem;
     max-height: 400px;
     max-width: 400px;
@@ -23,7 +23,7 @@
 }
 
 .social_networking_api a:hover {
-    box-shadow: 5px 5px 5px 5px  #888888;
+    box-shadow: 5px 5px 5px 5px #888888;
 }
 
 
@@ -37,7 +37,7 @@
 }
 
 .budget_balance a:hover {
-    box-shadow: 5px 5px 5px 5px  #888888;
+    box-shadow: 5px 5px 5px 5px #888888;
 }
 
 

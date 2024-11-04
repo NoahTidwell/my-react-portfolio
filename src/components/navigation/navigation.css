@@ -1,11 +1,11 @@
 .navigation_container {
     background-color: var(--nav-color);
     color: white;
-    font-family: Lucida Console;
+    font-family: "Lucida Console";
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: var(--font-color) !important;
+.navigation_container .navbar-light .navbar-nav .nav-link {
+    color: var(--font-color);
 }
 
 .navbar-light .navbar-brand {
