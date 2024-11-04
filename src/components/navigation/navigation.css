@@ -1,20 +1,21 @@
 .navigation_container {
     background-color: var(--nav-color);
     color: white;
-    font-family: "Lucida Console";
+    font-family: "Lucida Console", Monaco, monospace;
 }
 
 .navigation_container .navbar-light .navbar-nav .nav-link {
     color: var(--font-color);
 }
 
-.navbar-light .navbar-brand {
-    color: var(--font-color) !important;
+.navigation_container .navbar-light .navbar-brand {
+    color: var(--font-color);
     font-weight: bold;
     font-size: 18pt;
 }
 
 .navbar-light .navbar-toggler-icon {
+    /* Inverts the color of the navbar toggler icon for better visibility on dark backgrounds */
     filter: invert(1);
 }
 
