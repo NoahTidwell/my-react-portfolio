@@ -11,9 +11,9 @@ function AboutMe() {
             <div className='about_text'>
                 <h1>ABOUT ME</h1>
                 <p> 
-                Hello and welcome to my page! My name is Noah Tidwell. I currently a student at University of Houston, Main Campus studying for a BA in Journalism. In my pastime I enjoy learning MERN Stack Development. I am enthusiastic about building dynamic websites for users to have an engaging experience with. I am interested in web 3 and blockchain Development.
+                Hello and welcome to my page! My name is Noah Tidwell. I am currently a student at University of Houston studying for a BA in Journalism. I enjoy learning about MERN Stack Development and am enthusiastic about blockchain.
 
-In my pasttime, I enjoy playing the piano and guitar, hiking in the mountains, and gardening. I research blockchain projects and help curate a daily newsletter on the Solana Blockchain known as the <a target='_blank' rel='noreferrer' href='https://thesolanagrapevine.substack.com'>Solana Grapevine</a>
+In my pasttime, I enjoy playing the piano and guitar, hiking in the mountains, and gardening. I research blockchain projects and have professional written about many different blockchain projects. I am currently working on a project that will help people learn about blockchain and how to participate in it.
                 </p>
             </div>
         </div>
