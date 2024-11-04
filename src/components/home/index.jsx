@@ -9,7 +9,7 @@ function Home() {
         <Typed
         strings={[
             ' ',
-            'Technical-Writer',
+            'Technical Writer',
             'Sales Manager',
             'Blockchain Enthusiast',
             'MERN Stack Developer',
